@@ -9,7 +9,7 @@ I'm an aspiring **Software Engineer/Developer** with experience in **GitHub, Vis
 - 🧠 Currently learning: **Python**
 - 📎 Working on: **Building up a portfolio**
 - 👾 Languages: **HTML, CSS, Python, Javascript**
-- 📧 How to reach me: **giacosey28@gmail.com**
+- 📧 How to reach me: **giannaiscodingpancakes@gmail.com**
 - 🥞 Fun fact: **I play the 7-string guitar in a band.**
 
 ## My Skills 💪🏼
