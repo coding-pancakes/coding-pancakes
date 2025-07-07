@@ -4,7 +4,7 @@
 
 ## About Me 👩🏻‍💻
 
-I'm an aspiring **Software Engineer/Dev** with experience in **GitHub, Visual Studio Code, and more!**. I love problem solving while learning new skills, collaborating, coding with a cup of tea in hand during thunderstorms, and of course, pancakes.
+I'm an aspiring **Software Engineer/Dev** with experience in **GitHub, Visual Studio Code, and more!** I love problem solving while learning new skills, collaborating, coding with a cup of tea in hand during thunderstorms, and of course, pancakes.
 
 - 🧠 Currently learning: **Python**
 - 📎 Working on: **Building up a portfolio**
