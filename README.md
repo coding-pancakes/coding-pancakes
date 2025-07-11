@@ -1,4 +1,4 @@
-<img width="1440" height="687" alt="Screenshot 2025-07-11 at 7 11 20 PM" src="https://github.com/user-attachments/assets/6b31e15b-1fd8-4ee3-91f9-4f383317890a" />
+<img width="1287" height="710" alt="Screenshot 2025-07-11 at 7 27 36 PM" src="https://github.com/user-attachments/assets/a2816fba-5d77-4c15-ac75-d85ce2f73bb7" />
 
 # Hi there, I'm Gianna! 👋🏼
 
