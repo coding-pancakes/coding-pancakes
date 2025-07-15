@@ -6,7 +6,7 @@
 
 I'm an aspiring **Software Engineer/Developer** with experience in **Git, GitHub, and Visual Studio Code**. I love problem solving while learning new skills, collaborating, coding with a cup of tea in hand during thunderstorms, and of course, pancakes.
 
-- 🧠 Currently learning: **Python**
+- 🧠 Currently learning: **Python & Javascript**
 - 📎 Working on: **Building up a portfolio**
 - 👾 Languages: **HTML, CSS, Python, Javascript**
 - 🥞 Fun fact: **I play the 7-string guitar in a band.**
