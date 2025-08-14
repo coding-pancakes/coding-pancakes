@@ -9,7 +9,7 @@ I'm an aspiring **Software Engineer/Developer** with experience in **Git, GitHub
 - 🧠 Currently learning: **Python & Javascript**
 - 📎 Working on: **Building up a portfolio**
 - 👾 Languages: **HTML, CSS, Python, Javascript**
-- 🥞 Fun fact: **I play the 7-string guitar in a band.**
+- 🧋 Fun fact: **I play the 7-string guitar in a band.**
 
 ## My Skills 💪🏼
 
