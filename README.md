@@ -4,7 +4,7 @@
 
 ## About Me 👩🏻‍💻
 
-I'm an aspiring **Software Engineer/Developer** with experience in **Git, GitHub, Figma, and Visual Studio Code**.  I love problem solving while learning new skills, collaborating, coding with a cup of tea in hand during thunderstorms, and of course, pancakes.
+I'm an aspiring **Software Engineer and Web Developer** with experience in **Git, GitHub, Figma, and Visual Studio Code**.  I love problem solving while learning new skills, collaborating, coding with a cup of tea in hand during thunderstorms, and of course, pancakes.
 
 - 🧠 Currently learning: **Python & Javascript**
 - 📎 Working on: **Building**
