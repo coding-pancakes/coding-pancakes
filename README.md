@@ -6,9 +6,9 @@
 
 I'm an aspiring **Software Engineer and Web Developer** with experience in **Git, GitHub, Figma, and Visual Studio Code**.  I love problem solving while learning new skills, collaborating, coding with a cup of tea in hand during thunderstorms, and of course, pancakes.
 
-- 🧠 Currently learning: **Python & Javascript**
+- 🧠 Currently learning: **Python & JavaScript**
 - 📎 Working on: **Building**
-- 👾 Languages: **HTML, CSS, Javascript, Python**
+- 👾 Languages: **HTML, CSS, JavaScript, Python**
 - 🧋 Fun fact: **I play the 7-string guitar in a band.**
 
 ## My Skills 💪🏼
