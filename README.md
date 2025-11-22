@@ -1,5 +1,6 @@
 <img width="777" height="555" alt="header image" 
-src="https://github.com/user-attachments/assets/1b6dc8e4-eafb-4e58-a8ed-f8882ff457bc" />
+src="https://github.com/user-attachments/assets/d4dfab39-e17e-4182-9154-43b1f0ff3a04" />
+
 
 # Hi there, I'm Gianna! 👋🏼
 
