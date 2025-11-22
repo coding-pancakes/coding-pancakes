@@ -1,4 +1,4 @@
-<img width="999" height="555" alt="header image" 
+<img width="777" height="555" alt="header image" 
 src="https://github.com/user-attachments/assets/1b6dc8e4-eafb-4e58-a8ed-f8882ff457bc" />
 
 # Hi there, I'm Gianna! 👋🏼
