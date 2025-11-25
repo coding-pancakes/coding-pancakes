@@ -6,7 +6,7 @@
 
 I'm an aspiring **Software Engineer and Web Developer** with experience in **Git/GitHub, React, Figma, and Visual Studio Code**.  I love problem solving while learning new skills, collaborating, coding with a cup of tea in hand during thunderstorms, and of course, pancakes.
 
-My primary tech stack is React, HTML, CSS and JavaScript on the front end. I am also familiar with Node.js and Python.
+My primary tech stack is React, HTML, CSS, and JavaScript on the front end. I am also familiar with Node.js and Python.
 
 - 🧠 Currently learning: **JavaScript & React**
 - 📎 Working on: **Building**
