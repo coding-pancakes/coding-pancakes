@@ -1,10 +1,8 @@
-<img width="1249" height="541" alt="Header Image" src="https://github.com/user-attachments/assets/f66a2db4-d68d-41d6-bcd5-0a8ff7670257" />
-
 # Hi there, I'm Gianna! 👋🏼
 
 ## About Me 👩🏻‍💻
 
-I'm an aspiring **Software Engineer and Web Developer** with experience in **Git/GitHub, React, Figma, and Visual Studio Code**.  I love problem-solving while learning new skills, collaborating, coding with a cup of tea in hand during thunderstorms, and of course, pancakes.
+I'm an aspiring **Software Engineer and Web Developer** with experience in **Git/GitHub, React, Figma, and Visual Studio Code**.  I love problem-solving while learning new skills, collaborating, and coding with a cup of tea in hand during thunderstorms.
 
 My primary tech stack is React, HTML, CSS, and JavaScript on the front end. I am also familiar with Node.js and Python.
 
